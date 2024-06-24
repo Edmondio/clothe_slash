@@ -2,7 +2,7 @@
 $nombreCopies = Read-Host "Combien de copies voulez-vous?"
 
 # Définir le nom de fichier source
-$sourceFile = "47.png"
+$sourceFile = "40.png"
 
 # Vérifier si le fichier source existe
 if (-Not (Test-Path $sourceFile)) {
