@@ -1,0 +1,3 @@
+magick mogrify -channel RGB -brightness-contrast 20x10 -alpha on *.png
+
+magick mogrify -resize 256x256 *.png
